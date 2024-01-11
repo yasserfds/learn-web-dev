@@ -34,6 +34,6 @@ A typical HTML document has the following structure:
 
 # HTML Elements
 ## Headings
-<h1>This is a Heading 1</h1>
-<h2>This is a Heading 2</h2>
+`<h1>This is a Heading 1</h1>`
+`<h2>This is a Heading 2</h2>`
 <!-- ... up to h6 -->
