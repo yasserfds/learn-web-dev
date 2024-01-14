@@ -1,4 +1,4 @@
-#Introduction to CSS
+# Introduction to CSS
 
 Cascading Style Sheets (CSS) play a crucial role in enhancing the visual appeal and formatting of your GitHub Markdown documents. While Markdown provides a simple way to structure content, CSS allows you to customize the presentation, making your documentation more engaging and professional.
 
